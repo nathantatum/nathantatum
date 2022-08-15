@@ -1,7 +1,3 @@
-## Hello, World 👋
-
-<p>&nbsp;</p>
-
 ## About Me
 * 👨‍💻 - Managing Director, Data & Analytics @ CapTech Consulting
 * 🏫 - Virginia Tech

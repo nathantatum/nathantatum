@@ -1,6 +1,6 @@
 ## About Me
 * 👨‍💻 - Managing Director, Data & Analytics @ CapTech Consulting
-* 🏫 - Virginia Tech
+* 🏫 - Business Information Technology @ Virginia Tech
 * 🔭 - Modern Data Architecture on AWS
 
 <p>&nbsp;</p>

@@ -3,7 +3,7 @@
 * 🏫 - Business Information Technology @ Virginia Tech
 * 🔭 - Modern Data Architecture on AWS
 
-## Things I'm Working on Now
+## What I'm working on
 * Databricks
 * Agentic AI
 * InfluxDB v3.0

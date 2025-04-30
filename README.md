@@ -1,7 +1,13 @@
 ## About Me
-* 👨‍💻 - Managing Director, Data & Analytics @ CapTech Consulting
+* 👨‍💻 - Fellow, Data & Analytics @ CapTech Consulting
 * 🏫 - Business Information Technology @ Virginia Tech
 * 🔭 - Modern Data Architecture on AWS
+
+## Things I'm Working on Now
+* Databricks
+* Agentic AI
+* InfluxDB v3.0
+* AWS IoT SiteWise
 
 <p>&nbsp;</p>
 

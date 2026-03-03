@@ -1,5 +1,5 @@
 ## About Me
-* 👨‍💻 - Fellow, Data & Analytics @ CapTech Consulting
+* 👨‍💻 - Principal, Data & Analytics @ CapTech Consulting
 * 🏫 - Business Information Technology @ Virginia Tech
 * 🔭 - Modern Data Architecture on AWS
 
